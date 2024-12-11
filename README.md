@@ -5,17 +5,18 @@ Phishing para captura de senhas do MEta
 # Sistema operacional:
 Kali Linux 2024.3
 
-#Ferramenta:
+# Ferramenta:
  setoolkit
 
 # Configurando o Phishing no Kali Linux
 
 Acesso root: sudo su
-Iniciando o setoolkit: Ferramenta de configuração
+Iniciando o setoolkit: setoolkit
 Tipo de ataque: Social-Engineering Attacks
 Vetor de ataque: Web Site Attack Vectors
-Método de ataque: Credential Harvester Attack Method
+Método de ataque: Credential Harvester Attack Method 
 Método de ataque: Site Cloner
+Endereço do site fake: ifconfig
 URL para clone: http://www.facebook.com
 
 
